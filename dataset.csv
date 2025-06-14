@@ -1,0 +1,8 @@
+fever,cough,headache,body_pain,diarrhea,disease
+1,1,1,1,0,flu
+1,1,1,1,1,dengue
+1,0,0,1,0,malaria
+0,1,1,0,1,food poisoning
+1,1,1,1,1,covid
+0,0,1,1,0,migraine
+0,1,0,0,0,common cold
